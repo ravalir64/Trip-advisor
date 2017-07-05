@@ -1,0 +1,23 @@
+{
+  "name": "myportfolio",
+  "description": "myprofile",
+  "main": "index.js",
+  "authors": [
+    "ravali <ravalir64@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-route": "^1.6.4",
+    "angular-mocks": "^1.6.4"
+  }
+ 
+}
